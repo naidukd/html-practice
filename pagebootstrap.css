@@ -1,0 +1,31 @@
+
+main{
+    grid-row: 1;
+    grid-column: 2;
+   
+}
+.heading{
+    background-color: lightgray;
+    height: 300px;
+}
+
+p{
+    font-size: 13px;
+
+    
+}
+.first{
+    color:white;
+    background-color: rgb(28, 4, 83);
+}
+.bg{
+    background-color: lightgrey;
+    width: 250px;
+}
+a{
+    text-decoration: none;
+    
+}
+.sub1 {
+margin-left: 20px;  
+}
